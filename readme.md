@@ -38,8 +38,8 @@
 
   ### Confira aqui! :man_farmer:
 
-  <a href="https://www.youtube.com/watch?v=dkC00v8Jxlk" img src="https://i.ytimg.com/vi/dkC00v8Jxlk/maxresdefault.jpg" alt="video">
-  </a>
+  <a href="https://www.youtube.com/watch?v=dkC00v8Jxlk" img src="https://i.ytimg.com/vi/dkC00v8Jxlk/maxresdefault.jpg" alt="video"></a>
+  
 
   
 
